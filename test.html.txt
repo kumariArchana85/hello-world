@@ -1,1 +1,18 @@
-new file added,,, changing new file content
+HI 
+
+1 Adding file 1
+
+2.Adding file 2
+
+3.Adding file 3
+
+4.Adding file 4
+
+5.Adding file 5
+
+new functionality added for feature branch
+
+
+new functions 
+
+github test
